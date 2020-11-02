@@ -58,3 +58,7 @@ INSERT INTO dbo.grupe VALUES
 GO
 
 SELECT * FROM dbo.grupe
+
+
+
+1
